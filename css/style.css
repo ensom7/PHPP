@@ -1,0 +1,22 @@
+h2{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    background-color: rgb(220, 223, 245);
+    padding: 20px 40px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 30px;
+    font-weight: 700;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    text-align: center;
+    padding: 10px 30px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 30px;
+    border: 1px solid black;
+    font-weight: 400;
+}
